@@ -13,6 +13,7 @@ public class DevopsDemoApplication {
 	@PostConstruct
 	public void onApplicationStart() {
 		System.out.println("Spring Boot application started successfully!");
+		System.out.println("Dev modifs");
 	}
 
 }
